@@ -85,7 +85,7 @@ class _JogoStatus extends State<Jogo> {
               height: 15.0,
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
                 Material(
                   child: InkWell(
